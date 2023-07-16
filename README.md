@@ -1,3 +1,3 @@
 # TestGit01
 
-Test the git functionality from windows git bash
+Deze repository is gekoppeld met mijn Nimega account.
